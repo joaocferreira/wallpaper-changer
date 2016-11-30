@@ -1,7 +1,10 @@
 # wallpaper-changer
 download image from unsplash.com and uses it as wallpaper
 
-Steps
+___
+
+### Steps
+
 1. Clone/download this repository
 2. Run npm install from the terminal (yes, you need node for that)
   * Change url for prefered one
